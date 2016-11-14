@@ -1,4 +1,4 @@
-series: Basic C++
+series: Intermediate C++
 title: C++ Writing Files
 author:
   name: David Erbelding
@@ -7,9 +7,9 @@ author:
 description: Basic usage of ofstream.
 language: C++
 tags:
-  - Core
   - Input
+  - Core
 extra_resources:
 connections:
-  - series: Basic C++
+  - series: Intermediate C++
     title: C++ Reading Files
