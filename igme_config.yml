@@ -1,0 +1,15 @@
+series: Basic C++
+title: C++ Writing Files
+author:
+  name: David Erbelding
+  email: daviderbelding@gmail.com
+  github: https://github.com/Erbelding
+description: Basic usage of ofstream.
+language: C++
+tags:
+  - Core
+  - Input
+extra_resources:
+connections:
+  - series: Basic C++
+    title: C++ Reading Files
