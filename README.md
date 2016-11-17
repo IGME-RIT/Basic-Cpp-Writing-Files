@@ -1,4 +1,4 @@
-# Basic C++: C++ Writing Files
+# Intermediate C++: C++ Writing Files
 
 This demo covers the usage of fstream to write text to a file.
 This example shows basic writing to files, and also appending to files.
