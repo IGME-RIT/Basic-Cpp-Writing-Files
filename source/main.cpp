@@ -28,6 +28,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 int main()
 {
+	// Please read the README!.txt that came with the project
+	// to prevent running into mistakes in the future
+	
     {
         std::string fileName = "../assets/test.txt";
         std::ofstream file = std::ofstream(fileName);   // ofstream is the opposite of ifstream, and lets us write to files.
